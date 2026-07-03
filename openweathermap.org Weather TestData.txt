@@ -1,0 +1,11 @@
+
+
+API Key (api_key) : dcf76d6e142660e5634699702fdc59ac
+
+base_url : https://api.openweathermap.org/data/2.5
+
+city : Kolkata
+
+
+GET Query
+{{base_url}}/weather?q={{city}},IN&appid={{api_key}}&units=metric

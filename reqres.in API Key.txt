@@ -1,0 +1,30 @@
+
+https://app.reqres.in/playground
+
+Free API Key 
+
+"curl -H \"x-api-key: YOUR_API_KEY\"
+
+------------------------------------------------------------------
+
+To send an API request in Postman with an API key directly in the URL, 
+
+
+1. use Curl command
+
+curl -H "x-api-key: pub_393352c5766dd4091e149ab9f402c2b3cf810f596268de2fe64b7981f252f50b" \
+  "{{url}}/api/users"
+
+curl -H "x-api-key: pro_70a068206f4d39aea7bae31fff4d0f0491485b055c1aa5a7e248df57d67baf9f" \
+"{{url}}/api/collections/products/records?project_id={{projectID}}"
+
+2. append it as a query parameter 
+
+{{url}}/api/users?api_key=pub_393352c5766dd4091e149ab9f402c2b3cf810f596268de2fe64b7981f252f50b
+
+3. Use the Authorization Tab
+
+
+
+
+Postman Vault API Key: f37a1ef961c875e134f0cb2c7525186120f35b72ddd11f3a74a357d304e5c929

@@ -1,0 +1,12 @@
+
+Client ID : Afp-rKpPMxKQHGPopPN0apQXOWTVBi0qe11iHfYMS71ENSKtfvRQLnp9RZHFg5DKqkLXRLqIGZW-uljT
+
+Secret : EOhrPBA0qM5sz2dBOXxBvy_RknedWk9NqsNbsWDl2HUybKmxoDzMGxF20PfLJge4KFYk1GILaZR0LLfi
+
+
+
+PayPal OAuth 2.0
+
+"access_token": "A21AAJtwpj9seC3WEcZG4gEZO8iHDP78LNiBk0u5PCE15QNr59iaHvQr_qHYs7yEXZGHCaGf-EUetyzYeC7PSQzFSGFcv70ug",
+"token_type": "Bearer"
+"app_id": "APP-36261171M7626471L"

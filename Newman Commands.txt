@@ -1,0 +1,20 @@
+
+
+1. CLI-Junit XML Report
+
+newman run "E:\Practice Programming\Postman_API Testing\httpbin.org API TestDemo.postman_collection.json" --reporters cli,junit --reporter-junit-export "reports/NewmanReport.xml"
+
+
+2. HTML Report
+
+newman run "E:\Practice Programming\Postman_API Testing\httpbin.org API TestDemo.postman_collection.json" --reporters cli,junit,html --reporter-junit-export "reports/NewmanReport.xml" --reporter-html-export "reports/NewmanReport_html.html"
+
+
+3. HTML Extra Report
+
+newman run "E:\Practice Programming\Postman_API Testing\httpbin.org API TestDemo.postman_collection.json" --reporters cli,junit,htmlextra --reporter-junit-export "reports/NewmanReport.xml" --reporter-htmlextra-export "reports/NewmanReport_htmlextra.html"
+
+
+
+GitHub:
+https://github.com/santoshsagar567/API_Postman_Collections.git
